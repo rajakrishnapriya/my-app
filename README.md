@@ -1,6 +1,7 @@
 \# My App
 
-Simple Git practice project
+pipeline test 2
+
 
 
 
